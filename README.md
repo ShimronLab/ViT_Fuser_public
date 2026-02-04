@@ -3,7 +3,6 @@
 ## Official Implementation
 **Paper Title:** Deep personalized priors enable high-quality longitudinal MRI with low-cost systems  
 **Authors:** Tal Oved, Beatrice Lena, Chloé F. Najac, Sheng Shen, Matthew S. Rosen, Andrew Webb, Efrat Shimron  
-**Journal:** PNAS (Proceedings of the National Academy of Sciences)  
 
 ---
 
@@ -61,12 +60,3 @@ pip install -r requirements.txt
 ## Citation
 
 If you use this code or the paper's results, please cite:
-```text
-@article{oved2026vitfuser,
-  title={Deep personalized priors enable high-quality longitudinal MRI with low-cost systems},
-  author={Oved, Tal and Lena, Beatrice and Najac, Chlo{\'e} F and Shen, Sheng and Rosen, Matthew S and Webb, Andrew and Shimron, Efrat},
-  journal={Proceedings of the National Academy of Sciences (PNAS)},
-  year={2026},
-  doi={10.1073/pnas.XXXXXXXXXX}
-}
-```
