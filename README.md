@@ -57,6 +57,13 @@ To install dependencies:
 pip install -r requirements.txt
 ```
 
+## Data Preparation
+
+To reproduce the results, please download the Lumiere Paired Dataset and organize the files as follows. 
+
+* **Training Data:** Place the Lumiere Paired training data in the `core_models/registered_data` folder.
+* **Test Data:** Place the Lumiere Paired test data in the `core_models/test_data` folder.
+
 ## Citation
 
 If you use this code or the paper's results, please cite:
