@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ```
 
 ## Data Preparation
-
+[![Data](https://img.shields.io/badge/Data-Figshare-blue)](https://doi.org/10.6084/m9.figshare.31154503)
 To reproduce the results, please download the Lumiere Paired Dataset and organize the files as follows. 
 
 * **Training Data:** Place the Lumiere Paired training data in the `core_models/registered_data` folder.
