@@ -1,7 +1,8 @@
 # ViT-Fuser: Deep Personalized Priors for Longitudinal MRI
 
 ## Official Implementation
-**Paper Title:** [Deep personalized priors enable high-quality longitudinal MRI with low-cost systems](https://arxiv.org/abs/2505.02470) 
+**Paper Title:** [Deep personalized priors enable high-quality longitudinal MRI with low-cost systems](https://arxiv.org/abs/2505.02470)
+
 **Authors:** Tal Oved, Beatrice Lena, Chloé F. Najac, Sheng Shen, Matthew S. Rosen, Andrew Webb, Efrat Shimron  
 
 ---
